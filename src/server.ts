@@ -1,3 +1,5 @@
+
+import { createFetch } from '@angular-architects/module-federation/nguniversal';
 import {
   AngularNodeAppEngine,
   createNodeRequestHandler,
